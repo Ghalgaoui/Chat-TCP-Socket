@@ -1,3 +1,13 @@
+/*
+ ============================================================================
+ Name        : ClientSocket.c
+ Author      : kamel
+ Version     :
+ Email	     : kamelghalgaoui7@gmail.com
+ Copyright   : Your copyright notice
+ Description : ClientSocket in C, Ansi-style
+ ============================================================================
+ */
 
 #include <netdb.h>
 #include <netinet/in.h>

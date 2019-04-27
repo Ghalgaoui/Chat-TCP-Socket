@@ -1,5 +1,14 @@
+ /*
+ ============================================================================
+ Name        : ServerSocket.c
+ Author      : kamel
+ Version     :
+ Email	     : kamelghalgaoui7@gmail.com
+ Copyright   : Your copyright notice
+ Description : ServerSocket in C, Ansi-style
+ ============================================================================
+ */
 
-// Write CPP code here
 #include <netdb.h>
 #include <stdio.h>
 #include <stdlib.h>
